@@ -1,8 +1,8 @@
 /* Timer Align */
-#TimerAlign {float: left}
+#TimerAlign {float: left; width: 1000px; height: 500px;}
 
 /* Timer Box */
-#FullTimer {background-color: #000000; padding: 5px; width: 350px; margin-left: 10px; margin-right: 0px; float: left}
+#FullTimer {background-color: #000000; padding: 5px; width: 350px; margin-left: 10px; margin-right: 0px; float: left;}
 #TimerName {background-color: #808080; padding: 5px;}
 #Row1 {background-color: #bfbfbf; padding: 5px;}
 #Row2 {background-color: #a6a6a6; padding: 5px;}
@@ -18,7 +18,7 @@
 /* Slot Input */
 #TitleRow {background-color: #a6a6a6; padding: 5px;}
 #Summary {background-color: #808080; padding: 5px;}
-#FullInput {background-color: #000000; padding: 5px; width: 350px; margin-left: 10px; margin-right: auto; float: left}
+#FullInput {background-color: #000000; padding: 5px; width: 350px; margin-left: 10px; margin-right: auto; float: left;}
 #SubmitSlots {background-color: #808080; padding: 5px;}
 
 /* Headers */
