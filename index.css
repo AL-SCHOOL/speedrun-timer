@@ -1,5 +1,5 @@
 /* Timer Box */
-#FullTimer {background-color: #000000;}
+#FullTimer {background-color: #000000; padding: 5px;}
 #TimerName {background-color: #808080;}
 #Row1 {background-color: #bfbfbf;}
 #Row2 {background-color: #a6a6a6;}
@@ -9,4 +9,5 @@
 #Row6 {background-color: #a6a6a6;}
 #Row7 {background-color: #bfbfbf;}
 #Row8 {background-color: #a6a6a6;}
+#Row9 {background-color: #bfbfbf;}
 #Timer {background-color: #808080;}
