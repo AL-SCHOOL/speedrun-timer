@@ -2,7 +2,7 @@
 #TimerAlign {float:left;}
 
 /* Timer Box */
-#FullTimer {background-color: #000000; padding: 5px; width: 350px; margin-left: 10px;}
+#FullTimer {background-color: #000000; padding: 5px; width: 350px; margin-left: 10px; margin-right: 0px;}
 #TimerName {background-color: #808080; padding: 5px;}
 #Row1 {background-color: #bfbfbf; padding: 5px;}
 #Row2 {background-color: #a6a6a6; padding: 5px;}
