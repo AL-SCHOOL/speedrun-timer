@@ -1,18 +1,18 @@
 /* Timer Box */
 #FullTimer {background-color: #000000; padding: 5px;}
-#TimerName {background-color: #808080;}
-#Row1 {background-color: #bfbfbf;}
-#Row2 {background-color: #a6a6a6;}
-#Row3 {background-color: #bfbfbf;}
-#Row4 {background-color: #a6a6a6;}
-#Row5 {background-color: #bfbfbf;}
-#Row6 {background-color: #a6a6a6;}
-#Row7 {background-color: #bfbfbf;}
-#Row8 {background-color: #a6a6a6;}
-#Row9 {background-color: #bfbfbf;}
-#Timer {background-color: #808080;}
+#TimerName {background-color: #808080; padding: 5px;}
+#Row1 {background-color: #bfbfbf; padding: 5px;}
+#Row2 {background-color: #a6a6a6; padding: 5px;}
+#Row3 {background-color: #bfbfbf; padding: 5px;}
+#Row4 {background-color: #a6a6a6; padding: 5px;}
+#Row5 {background-color: #bfbfbf; padding: 5px;}
+#Row6 {background-color: #a6a6a6; padding: 5px;}
+#Row7 {background-color: #bfbfbf; padding: 5px;}
+#Row8 {background-color: #a6a6a6; padding: 5px;}
+#Row9 {background-color: #bfbfbf; padding: 5px;}
+#Timer {background-color: #808080; padding: 5px;}
 
 /* Slot Input */
-#Summary {background-color: #808080;}
+#Summary {background-color: #808080; padding: 5px;}
 #FullInput {background-color: #000000; padding: 5px;}
-#SubmitSlots {background-color: #808080;}
+#SubmitSlots {background-color: #808080; padding: 5px;}
