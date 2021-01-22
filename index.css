@@ -1,3 +1,6 @@
+/* Timer Align */
+#TimerAlign {float:left;}
+
 /* Timer Box */
 #FullTimer {background-color: #000000; padding: 5px; width: 250px;}
 #TimerName {background-color: #808080; padding: 5px;}
