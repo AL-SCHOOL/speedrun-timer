@@ -1,12 +1,12 @@
 /* Timer Box */
-div.FullTimer {background-color: #000000;}
-div.TimerName {background-color: #808080;}
-div.Row1 {background-color: #bfbfbf;}
-div.Box2 {background-color: #a6a6a6;}
-div.Row3 {background-color: #bfbfbf;}
-div.Box4 {background-color: #a6a6a6;}
-div.Row5 {background-color: #bfbfbf;}
-div.Box6 {background-color: #a6a6a6;}
-div.Row7 {background-color: #bfbfbf;}
-div.Box8 {background-color: #a6a6a6;}
-div.Timer {background-color: #808080;}
+#FullTimer {background-color: #000000;}
+#TimerName {background-color: #808080;}
+#Row1 {background-color: #bfbfbf;}
+#Box2 {background-color: #a6a6a6;}
+#Row3 {background-color: #bfbfbf;}
+#Box4 {background-color: #a6a6a6;}
+#Row5 {background-color: #bfbfbf;}
+#Box6 {background-color: #a6a6a6;}
+#Row7 {background-color: #bfbfbf;}
+#Box8 {background-color: #a6a6a6;}
+#Timer {background-color: #808080;}
