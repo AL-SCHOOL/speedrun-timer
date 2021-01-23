@@ -23,4 +23,7 @@
 
 /* Headers */
 h1 {text-align: center;}
-h2 {text-align: center;}
+h2 {text-align: center; color: #ffffff;}
+
+/* Text */
+timer {font-weight: bold; color: #ffffff; font-size: 20px;} 
