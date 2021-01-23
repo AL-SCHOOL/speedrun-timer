@@ -14,7 +14,7 @@
 #Row8 {background-color: #a6a6a6; padding: 5px;}
 #Row9 {background-color: #bfbfbf; padding: 5px;}
 #Row10 {background-color: #a6a6a6; padding: 5px;}
-#Timer {background-color: #808080; padding: 5px;}
+#Timer {background-color: #808080; padding: 5px; font-weight: bold; color: #ffffff; font-size: 20px;}
 
 /* Slot Input */
 #Summary {background-color: #808080; padding: 5px;}
@@ -24,6 +24,3 @@
 /* Headers */
 h1 {text-align: center;}
 h2 {text-align: center; color: #ffffff;}
-
-/* Text */
-timer {font-weight: bold; color: #ffffff; font-size: 20px;} 
