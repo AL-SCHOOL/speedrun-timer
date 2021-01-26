@@ -11,14 +11,14 @@ function SetTimer() {
   var split8 = document.getElementById("Slot8").value;
   var split9 = document.getElementById("Slot9").value;
   // Write data
-  document.getElementById("TimerTitle").innerHTML = title;
-  document.getElementById("Row1").innerHTML = split1;
-  document.getElementById("Row2").innerHTML = split2;
-  document.getElementById("Row3").innerHTML = split3;
-  document.getElementById("Row4").innerHTML = split4;
-  document.getElementById("Row5").innerHTML = split5;
-  document.getElementById("Row6").innerHTML = split6;
-  document.getElementById("Row7").innerHTML = split7;
-  document.getElementById("Row8").innerHTML = split8;
-  document.getElementById("Row9").innerHTML = split9;
+  document.getElementById("Title-Text").innerHTML = title;
+  document.getElementById("Row1-Text").innerHTML = split1;
+  document.getElementById("Row2-Text").innerHTML = split2;
+  document.getElementById("Row3-Text").innerHTML = split3;
+  document.getElementById("Row4-Text").innerHTML = split4;
+  document.getElementById("Row5-Text").innerHTML = split5;
+  document.getElementById("Row6-Text").innerHTML = split6;
+  document.getElementById("Row7-Text").innerHTML = split7;
+  document.getElementById("Row8-Text").innerHTML = split8;
+  document.getElementById("Row9-Text").innerHTML = split9;
 }
