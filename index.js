@@ -11,7 +11,7 @@ function SetTimer() {
   var split8 = document.getElementById("Slot8").value;
   var split9 = document.getElementById("Slot9").value;
   // Write data
-  document.getElementById("TimerName").innerHTML = title;
+  document.getElementById("TimerTitle").innerHTML = title;
   document.getElementById("Split1").innerHTML = split1;
   document.getElementById("Split2").innerHTML = split2;
   document.getElementById("Split3").innerHTML = split3;
