@@ -1,6 +1,6 @@
 function SetTimer() {
   // Receive data
-  var title = document.getElementById("Title").value;
+  var title = document.getElementById("TitleInput").value;
   var split1 = document.getElementById("Slot1").value;
   var split2 = document.getElementById("Slot2").value;
   var split3 = docuemnt.getElementById("Slot3").value;
@@ -12,13 +12,13 @@ function SetTimer() {
   var split9 = document.getElementById("Slot9").value;
   // Write data
   document.getElementById("TimerTitle").innerHTML = title;
-  document.getElementById("Split1").innerHTML = split1;
-  document.getElementById("Split2").innerHTML = split2;
-  document.getElementById("Split3").innerHTML = split3;
-  document.getElementById("Split4").innerHTML = split4;
-  document.getElementById("Split5").innerHTML = split5;
-  document.getElementById("Split6").innerHTML = split6;
-  document.getElementById("Split7").innerHTML = split7;
-  document.getElementById("Split8").innerHTML = split8;
-  document.getElementById("Split9").innerHTML = split9;
+  document.getElementById("Row1").innerHTML = split1;
+  document.getElementById("Row2").innerHTML = split2;
+  document.getElementById("Row3").innerHTML = split3;
+  document.getElementById("Row4").innerHTML = split4;
+  document.getElementById("Row5").innerHTML = split5;
+  document.getElementById("Row6").innerHTML = split6;
+  document.getElementById("Row7").innerHTML = split7;
+  document.getElementById("Row8").innerHTML = split8;
+  document.getElementById("Row9").innerHTML = split9;
 }
