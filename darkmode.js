@@ -15,5 +15,5 @@ function lightMode() {
 
 function switchMode() {
   onOff = document.getElementById("sliderAnswer");
-  if (sliderAnswer.checked) {darkMode();}
+  if (onOff.checked) {darkMode();}
   else {lightMode();}
