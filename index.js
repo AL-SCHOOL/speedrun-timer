@@ -9,7 +9,7 @@ function SetTimer() {
   var split6 = document.getElementById("Slot6").value;
   var split7 = document.getElementById("Slot7").value;
   var split8 = document.getElementById("Slot8").value;
-  var split9 - document.getElementById("Slot9").value;
+  var split9 = document.getElementById("Slot9").value;
   // Write data
   document.getElementById("TimerName").innerHTML = title;
   document.getElementById("Split1").innerHTML = split1;
