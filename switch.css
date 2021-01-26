@@ -1,4 +1,5 @@
 /* Script was copied from the website w3schools.com */
+/* Some visuals were changed to fit the theme */
 
 .switch {
   position: relative;
@@ -14,6 +15,7 @@
 }
 
 .slider {
+  border-radius: 34px;
   position: absolute;
   cursor: pointer;
   top: 0;
@@ -26,35 +28,29 @@
 }
 
 .slider:before {
+  border-radius: 50%;
   position: absolute;
   content: "";
   height: 26px;
   width: 26px;
   left: 4px;
   bottom: 4px;
-  background-color: white;
+  background-color: #ffffff;
   -webkit-transition: .4s;
   transition: .4s;
 }
 
 input:checked + .slider {
-  background-color: #2196F3;
+  background-color: #ffff66;
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
+  box-shadow: 0 0 1px #ffff66;
 }
 
 input:checked + .slider:before {
   -webkit-transform: translateX(26px);
   -ms-transform: translateX(26px);
   transform: translateX(26px);
-}
-
-.slider.round {
-  border-radius: 34px;
-}
-
-.slider.round:before {
-  border-radius: 50%;
+  background-color: #333333;
 }
