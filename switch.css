@@ -56,3 +56,4 @@ input:checked + .slider:before {
 }
 
 #darkModeAlign {text-align: right; width: 100%;}
+#darkModeSwitch {text-aligh: center;}
