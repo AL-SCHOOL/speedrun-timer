@@ -55,5 +55,6 @@ input:checked + .slider:before {
   background-color: #ffff66;
 }
 
-#darkModeAlign {text-align: right; width: 100%;}
+#darkModeAlign {text-align: right; width: 100%; float: left;}
 #darkModeSwitch {text-aligh: center;}
+#ModeNames {text-align: center;}
