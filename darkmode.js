@@ -1,7 +1,7 @@
 var onOff = document.getElementById("sliderAnswer");
 
 function switchMode() {
-  if (onOff.checked = true) {
+  if (onOff.checked) {
     document.body.style.background = "#1a1a1a";
     document.getElementById("logo").style.color = "#ffffff";
     document.getElementById("FullTimer").style.backgroundColor = "#ffffff";
